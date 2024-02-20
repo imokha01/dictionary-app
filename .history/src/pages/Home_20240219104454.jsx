@@ -1,0 +1,13 @@
+
+const Home = () => {
+  return (
+    <div>
+      <div>
+        <h1>Dictionary</h1>
+        <input className="bg-gray-q" type="text" placeholder="search here" />
+      </div>
+    </div>
+  )
+}
+
+export default Home
